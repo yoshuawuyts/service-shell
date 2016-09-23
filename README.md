@@ -1,6 +1,8 @@
 # service-shell
 Mount a shell script into a container and run it.
 
+## Moved to [yoshuawuyts/dockerfiles](https://github.com/yoshuawuyts/dockerfiles)
+
 ## Variables
 ```sh
 FILE   /usr/src/app/cmd.sh  Command to run from the shell script
